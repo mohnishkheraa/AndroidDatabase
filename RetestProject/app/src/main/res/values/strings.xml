@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetestProject</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
